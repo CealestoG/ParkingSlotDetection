@@ -20,7 +20,8 @@ This project aims to automate the detection of available parking spaces in a par
 - Optional deep learning model integration (e.g., YOLOv5 or MobileNet)
 - Visual output with color-coded slot overlays
 
----## Technologies Used
+---
+## Technologies Used
 
 - Python 3.8+
 - OpenCV for image processing
